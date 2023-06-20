@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(136, 31, 31);
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(255, 255, 255);
+    width: auto;
+    text-align: center;
+}
+ul {
+    list-style: none;
+}
